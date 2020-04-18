@@ -1,0 +1,26 @@
+{
+  "name": "the_weather_app",
+  "version": "1.0.0",
+  "description": "A simple weather app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "watchify src.js -o main.js -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwood89/The_Weather_App.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Christopher Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwood89/The_Weather_App/issues"
+  },
+  "homepage": "https://github.com/cwood89/The_Weather_App#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
