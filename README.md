@@ -7,6 +7,13 @@ A simple weather app that uses the OpenWeatherAPI.
 3. Return the current weather forecast in that ZIP using the OpenWeather API
 4. Be creative in your website design!
 
+## Todo
+
+- Display current time and weather based on users location on home page
+- enter a different zip to change data
+-forecast page will show 5 day forecast
+
+
 ## Resources to use
 
 [Moment.js Documentation](https://momentjs.com/docs/)
